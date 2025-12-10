@@ -1,9 +1,0 @@
-Hola, soy Marcos
-
-recuerden
-
-pwd, nos muestra la ruta actual del prompt
-ls, nos muestra el contenido del directorio de la ruta actual
-cd, nos permite desplazar entre directorios
-mkdir, nos permite crear un directorio
-hola soy juan y esta es mi modificación

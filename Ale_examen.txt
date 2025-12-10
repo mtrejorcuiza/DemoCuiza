@@ -1,3 +1,0 @@
-La programación es el proceso de crear instrucciones para que una computadora realice tareas específicas, utilizando un lenguaje de programación como Python o JavaScript. Este proceso implica escribir, probar y mantener código fuente, el cual se traduce a un lenguaje de máquina que el hardware puede ejecutar. Es fundamental para el desarrollo de aplicaciones, sitios web, software, y sistemas, además de fomentar el pensamiento lógico y la resolución de problemas. 
-
-Hola Ale, ya estas evaluada.
